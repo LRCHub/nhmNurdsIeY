@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "笑一笑　～シャオイーシャオ！～",
+  "base_artist": "ももいろクローバーZ",
+  "createdAt": "2026-03-10T12:31:45.886342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "笑一笑 ～シャオイーシャオ!～",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/01_笑一笑_~シャオイーシャオ!~_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "笑一笑 ~シャオイーシャオ!~",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_笑一笑_~シャオイーシャオ!~_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑一笑 ～シャオイーシャオ!～",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_01_笑一笑_~シャオイーシャオ!~_ももいろクローバーZ.txt"
+    }
+  ]
+}
